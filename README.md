@@ -19,7 +19,7 @@ Une plateforme de streaming de films avec panel d'administration.
 
 1. Cloner le projet
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jonoledf/Steamflix.git
 cd steamflix
 ```
 
@@ -100,3 +100,4 @@ steamflix/
 - POST /api/movies - Ajouter un film (admin)
 - PUT /api/movies/:id - Modifier un film (admin)
 - DELETE /api/movies/:id - Supprimer un film (admin)
+@No Copyright 2025 SteamFlix
